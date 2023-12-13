@@ -40,7 +40,7 @@ public class Ejemplo041 {
         acumulador= String.format("%s La suma del arreglo es %d",
                 acumulador,
                 suma);
-        System.out.printf("%s",acumulador);
+        System.out.printf("%s",acumulador.toUpperCase());
         
     }
 
