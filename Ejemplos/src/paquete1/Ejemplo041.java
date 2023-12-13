@@ -37,7 +37,7 @@ public class Ejemplo041 {
             //System.out.printf("Subíndice o Índice %d, con valor %d\n",
                     //i, arreglo1[i]);
         }
-        acumulador= String.format("%s La suma del arreglo es %d",
+        acumulador= String.format("%s La suma del arreglo es %d\n",
                 acumulador,
                 suma);
         System.out.printf("%s",acumulador.toUpperCase());
